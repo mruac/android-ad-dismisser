@@ -58,7 +58,7 @@ If a specific layout is not detected, it will attempt to identify the close butt
 
 ### video demonstration of "app lock" and automatic trigger of ad dismisser
 
-<video controls src="media/demo.mp4" title="alt text"></video>
+https://github.com/user-attachments/assets/69090001-df4c-4dd2-a52d-5fdd99f57585
 
 ### "app lock" macro
 
